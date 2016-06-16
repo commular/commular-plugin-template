@@ -1,0 +1,25 @@
+{
+  "name": "commular-plugin-template",
+  "version": "0.1.1",
+  "description": "A template for commular plugins",
+  "main": "scripts/index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Tomas Corral <amischol@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-nodeunit": "^1.0.0",
+    "bdd-stdin": "^0.2.0",
+    "dir-compare": "^1.0.1",
+    "pmock": "^0.2.3"
+  }
+}
